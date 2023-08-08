@@ -1,18 +1,22 @@
 h1{
-    font-size: 50px;
-    color: orange;
+    font-size: 55px;
     border: 2px solid yellow;
-
 }
 h4{
-    color: orange;
+    font-size: 40px;
+    background-color: orange;
 }
 li{
-    color:  orangered;
+    font-size: 25px;
+}
+.whitetext{
+    font-family: 'Courier New';
+    font-weight: bold; 
+    color:  #ffffff;
+}
+.bluetext{
+    font-family: 'Courier New';
+    font-weight: bold; 
+    color:  #3b00fc;
 }
 
-body{
-    background-image: url('https://cdn.dribbble.com/users/787991/screenshots/2031467/jupiter-large.gif');
-    background-repeat: no-repeat;
-    background-size: cover;
-}

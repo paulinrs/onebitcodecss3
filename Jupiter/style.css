@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://cdn.dribbble.com/users/787991/screenshots/2031467/jupiter-large.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{ 
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Courier New', Courier, sans serif;
+    background-color: #ffa500;
+    border: 2px solid white;
+}
+h4{
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, sans serif;
+    background-color: #ffa500;
+}
+li{
+    font-size: 25px;
+}
+.whitetext{
+    font-family: 'Courier New', Courier, sans serif;
+    font-weight: bold; 
+    color:  #ffffff;
+}
+.bluetext{
+    font-family: 'Courier New', Courier, sans serif;
+    font-weight: bold; 
+    color:  #3b00fc;
+}
+

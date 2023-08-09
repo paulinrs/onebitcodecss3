@@ -5,29 +5,33 @@ body{
 }
 
 h1{ 
+    color: #0707ee;
     text-align: center;
     font-size: 55px;
-    font-family: 'Courier New', Courier, sans serif;
+    font-family: enable;
+    font-family: 'Geostar Fill', cursive;
     background-color: #ffa500;
     border: 2px solid white;
 }
+
 h4{
     text-decoration: underline;
-    font-size: 40px;
-    font-family: 'Courier New', Courier, sans serif;
+    font-size: 50px;
+    font-family: 'Edu SA Beginner', cursive;;
     background-color: #ffa500;
 }
-li{
-    font-size: 25px;
+li{ 
+    font-weight: bolder;
+    font-size: 35px;
+    font-family: 'Edu SA Beginner', cursive;
 }
 .whitetext{
-    font-family: 'Courier New', Courier, sans serif;
-    font-weight: bold; 
+    
     color:  #ffffff;
 }
 .bluetext{
-    font-family: 'Courier New', Courier, sans serif;
-    font-weight: bold; 
-    color:  #3b00fc;
+    
+     
+    color:  #e7fc00;
 }
 

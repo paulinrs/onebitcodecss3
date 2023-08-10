@@ -8,7 +8,6 @@ h1{
     color: #0707ee;
     text-align: center;
     font-size: 55px;
-    font-family: enable;
     font-family: 'Geostar Fill', cursive;
     background-color: #ffa500;
     border: 2px solid white;
@@ -32,6 +31,6 @@ li{
 .bluetext{
     
      
-    color:  #e7fc00;
+    color:  #2201fc;
 }
 

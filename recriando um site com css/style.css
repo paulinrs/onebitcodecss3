@@ -5,6 +5,11 @@ body{
 h1{
     font-family: 'Geostar', cursive;
     color: #ffffff;
+    text-align: center;
+    margin: 45px auto 50px auto;
+    width: 35%;
+    border: 2px solid;
+    padding: 10px 2px 10px 2px;
 }
 
 h3{
